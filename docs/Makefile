@@ -20,5 +20,4 @@ help:
 %: Makefile
 	rm -rf _build
 	rm -rf _autosummary
-	jupytext --to notebook notebooks/*.py
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)

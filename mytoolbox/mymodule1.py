@@ -9,7 +9,6 @@ the `autodata` directive, ie::
 
     .. autodata:: myTypeAlias
 
-.. autodata:: myTypeAlias
 """
 from typing import List, Tuple, Union, TypeVar
 

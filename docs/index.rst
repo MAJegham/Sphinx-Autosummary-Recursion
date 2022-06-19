@@ -5,7 +5,6 @@
    :hidden:
 
    Home page <self>
-   Jupyter tutorials <tutorials>
    API reference <_autosummary/mytoolbox>
 
 Welcome to Sphinx-Autosummary-Recursion documentation
